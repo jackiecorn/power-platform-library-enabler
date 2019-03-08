@@ -1,0 +1,13 @@
+{
+	"id": "power-platform-library-enabler",
+	"name": "Power Platform Library Enabler",
+	"requiredOrgId": "588096576863690753",
+	"author": "Jackie Chui",
+	"description": "Adds a button to easily turn on the Power Platform Component Library. Also automatically turns on the library in all files that you are an owner of.",
+	"instructions": "Select 'Enable Power Platform Library' in the Hamburger -> Plugins menu.",
+	"images": [
+		"https://raw.githubusercontent.com/jachui/power-platform-library-enabler/gh-pages/screenshot1.jpg",
+		"https://raw.githubusercontent.com/jachui/power-platform-library-enabler/gh-pages/screenshot2.jpg"
+	],
+	"js": ["app.js"]
+}
