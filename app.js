@@ -20,4 +20,4 @@ figmaPlus.onFileLoaded(() => {
 		enable();
 });
 
-figmaPlus.createPluginsMenuItem('Enable Power Platform Library', enable);
+figmaPlus.addCommand({ label: 'Enable Power Platform Library', action: enable });
