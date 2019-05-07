@@ -1,7 +1,7 @@
 {
 	"id": "power-platform-library-enabler",
 	"name": "Power Platform Library Enabler",
-	"requiredOrgId": "588096576863690753",
+	"requiredTeamIds": ["540681010011095157"],
 	"author": "Jackie Chui",
 	"description": "Adds a button to easily turn on the Power Platform Component Library. Also automatically turns on the library in all files that you are an owner of.",
 	"instructions": "Select 'Enable Power Platform Library' in the Figma Plus menu.",
